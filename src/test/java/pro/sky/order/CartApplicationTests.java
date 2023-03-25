@@ -1,4 +1,4 @@
-package pro.sky.cart;
+package pro.sky.order;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
